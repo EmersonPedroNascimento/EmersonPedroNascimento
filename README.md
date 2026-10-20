@@ -17,12 +17,6 @@ Sou profissional de Tecnologia da Informação, bacharel em Sistemas de Informa�
 | Sistemas e automação | Linux, Shell Scripting e automação de rotinas |
 | Qualidade e colaboração | Testes unitários, Git, GitHub e GitFlow |
 
-### 📈 Resultados em projetos
-
-- Redução de **30% no tempo de resposta de APIs** desenvolvidas com Python, Django e Flask.
-- Redução do tempo de geração de relatórios de **5 minutos para 30 segundos** com otimização de consultas SQL.
-- Otimização de consultas e modelagem de dados para processamento de **mais de 1 milhão de registros por dia**.
-- Aumento de **45% na taxa de transferência de dados** com otimização de módulos em C++, utilizando STL, concorrência e multithreading.
 
 ### 🌱 Mentoria e compartilhamento
 
