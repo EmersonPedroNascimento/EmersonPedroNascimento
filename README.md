@@ -4,7 +4,7 @@
 
 Sou profissional de Tecnologia da Informação, bacharel em Sistemas de Informação, pós-graduado em Análise e Desenvolvimento de Sistemas e atualmente cursando especialização em Engenharia de Software.
 
-**Analista de TI ou Engenheiro de Software**, com foco em desenvolvimento, manutenção e otimização de sistemas e bancos de dados. Tenho experiência em projetos freelancers para equipes nacionais e internacionais, atuando na construção de APIs REST, modelagem de dados e melhoria de desempenho de aplicações.
+**Analista de TI / Engenheiro de Software**, com foco em desenvolvimento, manutenção e otimização de sistemas e bancos de dados. Tenho experiência em projetos freelancers para equipes nacionais e internacionais, atuando na construção de APIs REST, modelagem de dados e melhoria de desempenho de aplicações.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-pedro-do-nascimento-menezes/)
 
